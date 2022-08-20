@@ -7,7 +7,17 @@ Du skal lave en Iphone kopi, meget simplet du skal lave det i html & css.
 
 her har du et exemple, hvis du skal bruge hjælp så skriv til mig.
 
-Jeg smider en kun hvis du ikke kan finde ud af det over hovdet fil med i, men den er kun til at kigge i og ikke kopiere, imens du skriver koden så prøv at tænke over hvordan tigne fungere :D 
+Jeg giver dig en fil som du må kigge i men ikke kopiere :D
+Held og lykke
 
 Hvis du gerne ville udvikle dig mere så kan du lave lidt javascript.
 
+## For at starte!
+Du skal skrive "!" for at starte dit projekt, du kan derefter se at der kommer en masse ting skrevet ind for dig, du skal ikke rigtig gøre noget, med det du kan ændre title og det er det :D.
+
+Der efter skal du gå ind i <body> og begynde skriv dit html.
+
+held og lykke!
+
+## Creator of the projekt & All Right served
+CPTRICODEV
