@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+* {
+    margin: 0;
+    left: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.phonecase {
+    background: #1a1a1a;
+    width: 280px;
+    height: 550px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    top: 50%;
+    border-radius: 35px;
+    border-style: solid;
+    border-color: #1a1a1a;
+}
+
+.screen {
+    width: 95%;
+    height: 98%;
+    background-image: url(./assets/background1.jpg);
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    top: 50%;
+    border-radius: 30px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.background_screen {
+    height: 100%;
+    width: 100%;
+    background: #1a1a1a34;
+    border-radius: 30px;
+}
+
+.notch {
+    width: 50%;
+    height: 3.3%;
+    background: #1a1a1a;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 1px;
+    border-radius: 0.7vh;
+    z-index: 10;
+}
+
+.lightbar {
+    width: 45%;
+    height: 1.2%;
+    border-radius: 30px;
+    position: absolute;
+    background: white;
+    left: 50%;
+    transform: translateX(-50%) translateY(-97%);
+    top: 97%;
+    z-index: 10;
+}
+
+.time {
+position: absolute;
+left: 50%;
+transform: translateX(-50%) translateY(-10%);
+z-index: 10;
+font-size: 45px;
+font-weight: 500;
+top: 10%;
+}
+
+.date{
+position: absolute;
+left: 50%;
+transform: translateX(-50%) translateY(-19%);
+font-size: 13px;
+top: 19%;
+font-weight: 500;
+z-index: 10;
+}
+
+.lock {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%) translateY(-5%);
+    top: 5%;
+    color: white;
+    font-size: 23px;
+    z-index: 10;
+}
