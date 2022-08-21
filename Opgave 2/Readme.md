@@ -12,6 +12,8 @@ Held og lykke
 
 Hvis du gerne ville udvikle dig mere så kan du lave lidt javascript.
 
+Du kan også lege lidt rundt med farver og font størlser og evet størlsen på Navbaren
+
 ## For at starte!
 Du skal skrive "!" for at starte dit projekt, du kan derefter se at der kommer en masse ting skrevet ind for dig, du skal ikke rigtig gøre noget, med det du kan ændre title og det er det :D.
 
